@@ -1,0 +1,5 @@
+chest_Xray
+pneumonet_model.h5
+pneumonia_model.tflite
+
+.ipynb_checkpoints
