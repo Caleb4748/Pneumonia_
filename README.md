@@ -18,7 +18,13 @@ chest_Xray/
   test/
 ```
 
-Each subfolder must contain `NORMAL/` and `PNEUMONIA/` image folders.
+Each subfolder must contain image folders for all three classes:
+
+```
+NORMAL/            – no pneumonia
+VIRUS/             – viral pneumonia
+BACTERIA/          – bacterial pneumonia
+```
 
 ## Directory layout
 ```
