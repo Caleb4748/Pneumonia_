@@ -46,7 +46,7 @@ Create the `outputs/` directory before running the export cells.
    ```
 2. Install dependencies
    ```bash
-   pip install tensorflow scikit-learn matplotlib numpy
+   pip install -r requirements.txt
    ```
 
 TensorFlow 2.x is required for the export code.
